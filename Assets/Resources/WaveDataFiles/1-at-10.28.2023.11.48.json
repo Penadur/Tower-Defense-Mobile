@@ -1,0 +1,132 @@
+{
+    "waves": [
+        {
+            "enemyTypes": [
+                "SM-1"
+            ],
+            "enemyQuantities": [
+                4
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-1"
+            ],
+            "enemyQuantities": [
+                4
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-1"
+            ],
+            "enemyQuantities": [
+                6
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-2"
+            ],
+            "enemyQuantities": [
+                8
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-2"
+            ],
+            "enemyQuantities": [
+                10
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-3"
+            ],
+            "enemyQuantities": [
+                12
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-2"
+            ],
+            "enemyQuantities": [
+                16
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-2"
+            ],
+            "enemyQuantities": [
+                14
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-4"
+            ],
+            "enemyQuantities": [
+                20
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-2"
+            ],
+            "enemyQuantities": [
+                20
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-3"
+            ],
+            "enemyQuantities": [
+                20
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-4"
+            ],
+            "enemyQuantities": [
+                10
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-4"
+            ],
+            "enemyQuantities": [
+                20
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-5"
+            ],
+            "enemyQuantities": [
+                20
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-5"
+            ],
+            "enemyQuantities": [
+                32
+            ]
+        },
+        {
+            "enemyTypes": [
+                "SM-5"
+            ],
+            "enemyQuantities": [
+                40
+            ]
+        }
+    ]
+}
